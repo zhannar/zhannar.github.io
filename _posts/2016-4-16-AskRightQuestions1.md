@@ -11,6 +11,10 @@ Unlike the common assumption in game theory, we do not live in a world of common
 
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=biomimicry&year_start=1980&year_end=2010&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cbiomimicry%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://books.google.com/ngrams/interactive_chart?content=biomimicry&year_start=1980&year_end=2010&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cbiomimicry%3B%2Cc0 "Video Title")
+
 Okay, what’s this got to do with data science you might say? Besides lightly raising the idea of information flow and networks (which I will go into more formally in later articles), it raises another set of ideas related to knowledge gaps and knowledge imbalances between different sets of people. This series of articles raises three main knowledge gaps and imbalances which I perceive as existing in the world today. In particular:
 
 1. The why and how of data science: companies which believe they need data scientists and if they know what to do with them.
