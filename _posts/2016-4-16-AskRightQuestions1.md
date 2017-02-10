@@ -3,7 +3,7 @@ layout: post
 title: A guide to asking the right questions for noob data scientists - Part 1
 ---
 
-The TLDR essence of this series of articles is that the [business model canvas](https://strategyzer.com/canvas/business-model-canvas) (and associated canvases on the [business model environment] (http://blog.strategyzer.com/posts/2015/10/14/how-to-scan-through-your-environments-disruptive-threats-and-opportunities) and the [value proposition](https://strategyzer.com/canvas/value-proposition-canvas)) can be incredibly useful in unlocking a data scientist’s potential when entering business or transitioning to a new industry because it encourages a better understanding of how their company creates, delivers, and stores values. This in turn enables them to better assess the relative importance and possible consequences of different questions and increases the likelihood that they’ll ask the right question. 
+The TLDR essence of this series of articles is that the [business model canvas](https://strategyzer.com/canvas/business-model-canvas) (and associated canvases on the [business model environment](http://blog.strategyzer.com/posts/2015/10/14/how-to-scan-through-your-environments-disruptive-threats-and-opportunities) and the [value proposition](https://strategyzer.com/canvas/value-proposition-canvas)) can be incredibly useful in unlocking a data scientist’s potential when entering business or transitioning to a new industry because it encourages a better understanding of how their company creates, delivers, and stores values. This in turn enables them to better assess the relative importance and possible consequences of different questions and increases the likelihood that they’ll ask the right question. 
 
 <hr>
 
